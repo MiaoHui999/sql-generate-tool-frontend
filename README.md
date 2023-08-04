@@ -92,6 +92,7 @@ SQL 生成工具，通过填写表单可以一键生成建表语句、模拟数�
 ### Schema 构造器
 
 核心类：TableSchemaBuilder，作用是将不同的参数统一收敛为 TableSchema 对象。
+
 包含以下方法：
 
 ![image](https://github.com/wenzhou1616/sql-generate-tool-backend/assets/92576687/922c7301-06d1-4b06-8aeb-322ae9bf0d3d)
